@@ -3,7 +3,7 @@ E-farm Shopping is a web application developed for farmers to automate the purch
 
 # Technology Used:
 Front End: HTML, CSS<br>
-Back End: PHP, MYSQL 
+Back End: PHP, Python ,MYSQL 
 
 # Requirements
 Download Visual Studio Code, XAMPP for Windows, and a browser.<br>
